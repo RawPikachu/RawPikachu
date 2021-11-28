@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+**Warning**: My code is very bad and probably very inefficient, so I suggest not using my code as an example. (except as a bad example)
 <!--
 **RawPikachu/RawPikachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
