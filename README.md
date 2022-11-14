@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-**Warning**: My code is very bad and probably very inefficient, so I suggest not using my code as an example. (except as a bad example)
+I play games like Minecraft and a lot more. \
+I also do Python sometimes.
 <!--
 **RawPikachu/RawPikachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
